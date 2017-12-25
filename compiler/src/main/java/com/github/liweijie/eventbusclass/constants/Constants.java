@@ -7,5 +7,9 @@ package com.github.liweijie.eventbusclass.constants;
  * update by:
  * update day:
  */
-public class Constants {
+public interface Constants {
+
+    String SOURCE_NAME = "com.github.liweijie.eventclass";
+    String MODULE_NAME = "eventbusclass";
+
 }
